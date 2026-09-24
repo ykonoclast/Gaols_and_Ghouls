@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption>lang=&quot;x-default&quot; Black and white drawing of the Medieval knight</caption>
+  <note>Black and white drawing of the Medieval knight (Places and Monuments) knight,medieval,armor,sword,warrior,war,man,weapons,black and white</note>
+  <place/>
+  <categories>
+    <category value="knight"/>
+    <category value="medieval"/>
+    <category value="armor"/>
+    <category value="sword"/>
+    <category value="warrior"/>
+    <category value="war"/>
+    <category value="man"/>
+    <category value="weapons"/>
+    <category value="black and white"/>
+  </categories>
+</comment>
